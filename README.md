@@ -1,13 +1,13 @@
-# Chai Culture — "Brew the Royal Tradition" ☕👑
+# Chai Culture — "Brew the Royal Tradition"
 
 Welcome to the digital home of **Chai Culture**, a brand dedicated to bringing the royal tradition of Indian chai to the world. This repository contains the "Coming Soon" landing page built for the frontend developer assignment at Chai Culture.
 
 ## 🔗 Live Demo
-[View the Live Site Here](https://chai-culture-landing.vercel.app) *(Note: Replace with your actual live link after deployment)*
+[View the Live Site Here] :- https://chai-project-ui.vercel.app/
 
 ---
 
-## ✨ Design Choices & Brand Identity
+##  Design Choices & Brand Identity
 
 To translate Jay Trivedi's vision into a premium digital experience, the following design choices were made:
 
@@ -30,30 +30,8 @@ To translate Jay Trivedi's vision into a premium digital experience, the followi
 
 ---
 
-## 🚀 Getting Started
 
-To run this project locally:
-
-1.  **Clone the Repository**:
-    ```bash
-    git clone https://github.com/your-username/chai-project.git
-    cd chai-project
-    ```
-
-2.  **Install Dependencies**:
-    ```bash
-    npm install
-    ```
-
-3.  **Start Development Server**:
-    ```bash
-    npm start
-    ```
-    The app will be available at `http://localhost:3000`.
-
----
-
-## 📦 Tech Stack
+## Tech Stack
 
 - **Framework**: React 19
 - **Styling**: Tailwind CSS
@@ -62,9 +40,3 @@ To run this project locally:
 - **Typography**: Google Fonts (Playfair Display, Lato)
 
 ---
-
-## 👨‍💻 Submission for
-**Jay Trivedi**  
-Founder & CEO | Chai Culture
-
-*"Brewing the Royal Tradition, one cup at a time."*
