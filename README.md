@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Chai Culture — "Brew the Royal Tradition" ☕👑
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the digital home of **Chai Culture**, a brand dedicated to bringing the royal tradition of Indian chai to the world. This repository contains the "Coming Soon" landing page built for the frontend developer assignment at Chai Culture.
 
-## Available Scripts
+## 🔗 Live Demo
+[View the Live Site Here](https://chai-culture-landing.vercel.app) *(Note: Replace with your actual live link after deployment)*
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Design Choices & Brand Identity
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To translate Jay Trivedi's vision into a premium digital experience, the following design choices were made:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1.  **Royal Color Palette**: I utilized **Metallic Gold (#D4AF37)**, **Deep Royal Brown (#4B2E2E)**, and **Luxurious Cream (#FFF8E7)**. This combination evokes a sense of heritage, warmth, and high-end quality, reflecting the "Royal Tradition" of the brand.
+2.  **Typography**: I chose **'Playfair Display'** (Serif) for headings to provide a sophisticated, regal feel, and **'Lato'** (Sans-serif) for body text to ensure modern readability and clean aesthetics.
+3.  **Aesthetics & UX**:
+    -   **Glassmorphism**: Used for the "Launching Soon" badge to add a touch of modern elegance.
+    -   **Micro-animations**: Integrated smooth entrance animations using **Framer Motion** to ensure the page feels interactive and "alive" without sacrificing professionalism.
+    -   **Mobile First**: Fully responsive design ensures the premium experience is preserved on all devices, from desktops to smartphones.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Features
 
-### `npm run build`
+- [x] **Premium Logo**: Custom-designed logo incorporating tea and royal motifs.
+- [x] **Brand Story**: Compelling description focusing on the heritage of royal Indian households.
+- [x] **Email Subscription**: Modern, validated signup form with success states.
+- [x] **Social Integration**: Interactive social icons for Instagram, Twitter, Facebook, and LinkedIn.
+- [x] **Optimized Performance**: Built with React and Tailwind CSS for speed and maintainability.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run this project locally:
 
-### `npm run eject`
+1.  **Clone the Repository**:
+    ```bash
+    git clone https://github.com/your-username/chai-project.git
+    cd chai-project
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2.  **Install Dependencies**:
+    ```bash
+    npm install
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3.  **Start Development Server**:
+    ```bash
+    npm start
+    ```
+    The app will be available at `http://localhost:3000`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📦 Tech Stack
 
-## Learn More
+- **Framework**: React 19
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Typography**: Google Fonts (Playfair Display, Lato)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 👨‍💻 Submission for
+**Jay Trivedi**  
+Founder & CEO | Chai Culture
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*"Brewing the Royal Tradition, one cup at a time."*
